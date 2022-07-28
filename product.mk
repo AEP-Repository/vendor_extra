@@ -10,7 +10,7 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # Overlays
 PRODUCT_PACKAGES += \
-    RomUpdaterOverlay
+    AwakenUpdaterOverlay
 
 # Updater
 PRODUCT_PACKAGES += \
