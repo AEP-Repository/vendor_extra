@@ -21,10 +21,10 @@
           {type} - Build type
     -->
     <string name="updater_server_url" translatable="false">
-    		https://raw.githubusercontent.com/a3project/ota/awaken/updates/{device}.json
+    		https://raw.githubusercontent.com/a3project/ota/awaken/{device}.json
     </string>
     
     <string name="changelog_url" translatable="false">
-    		https://raw.githubusercontent.com/a3project/ota/awaken/changelogs/{device}.txt
+    		https://raw.githubusercontent.com/a3project/ota/awaken/changelog.txt
     </string>
 </resources>
